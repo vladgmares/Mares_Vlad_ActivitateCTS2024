@@ -1,10 +1,10 @@
 package A_EX1.clase;
 
 public class Pacient {
-    //obligatoriu
+    //obligatorii
     private String nume;
     private int varsta;
-    //opt
+    //optionale
     private boolean patRabatabil;
     private boolean micDejun;
     private boolean papuciCamera;
