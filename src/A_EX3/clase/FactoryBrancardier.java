@@ -1,4 +1,4 @@
-package A_EX2.clase;
+package A_EX3.clase;
 
 public class FactoryBrancardier implements Factory {
 

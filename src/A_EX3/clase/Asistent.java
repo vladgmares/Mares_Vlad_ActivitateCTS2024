@@ -1,4 +1,6 @@
-package A_EX2.clase;
+package A_EX3.clase;
+
+
 
 public class Asistent implements PersonalSpital {
     private String nume;
