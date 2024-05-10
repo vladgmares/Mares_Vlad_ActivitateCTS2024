@@ -5,6 +5,7 @@ import B_EX9.clase.Rezervare;
 
 public class Program {
     public static void main(String[] args) {
+        //DP Proxy
         Rezervare r1 = new Rezervare(3);
         r1.rezerva();
 
